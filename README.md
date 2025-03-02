@@ -1,4 +1,4 @@
-# Jenson USA SQL Analysis Project
+# Jenson-USA-SQL-Analysis-Project-P6
 
 ## Overview
 
